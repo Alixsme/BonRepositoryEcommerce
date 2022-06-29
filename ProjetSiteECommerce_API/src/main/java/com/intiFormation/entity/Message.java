@@ -7,7 +7,7 @@ public class Message {
 	
 
 	public String getMessage() {
-		System.out.println("Modification");
+		System.out.println("TEST");
 		return message;
 		
 	}
